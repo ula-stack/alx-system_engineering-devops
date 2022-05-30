@@ -1,0 +1,2 @@
+redirectiond
+prints hello world
